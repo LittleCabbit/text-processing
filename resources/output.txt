@@ -1,0 +1,3 @@
+Predefined word      Match count
+ai                   1         
+name                 2         

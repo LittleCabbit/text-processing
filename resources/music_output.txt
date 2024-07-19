@@ -1,0 +1,4 @@
+Predefined word      Match count
+detect               20        
+name                 196       
+ai                   2         
