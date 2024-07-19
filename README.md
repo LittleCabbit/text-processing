@@ -96,4 +96,6 @@ You can create sample files to test the script:
 - Sample Input Text File (`sample_resource.txt`, `musical_instruments_resource.txt`):
 
 ### Testing
-Testing done by utilizing the search function in sublime and type `\bword\b` into the search box (replace word with your specific word) to verify the count result matches output.
+Testing done by utilizing the search function in sublime and type `\bword\b` into the search box (replace word with specific word) to check the count result. 
+
+Verified that results are as expected. For example, file musical_instruments_resource.txt has 20 "detect", 196 "name", and 2 "ai".
